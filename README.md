@@ -3,10 +3,13 @@ We analyze a **Weather Dataset** and answer multiple questions using data explor
 
 ---
 
-## 📁 Project Files
+## 📁 Raw Data
 
-* **`Weather Dataset.csv`** — The raw weather data used for analysis
-* **`Weather_project_Pandas.ipynb`** — The Jupyter Notebook with all the analysis and answers
+[Download Raw file](https://www.kaggle.com/datasets/rohitgrewal/weather-data/data)
+
+---
+## 📊 Output File
+**`Weather_project_Pandas.ipynb`** — The Jupyter Notebook with all the analysis and answers
 
 ---
 
